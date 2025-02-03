@@ -33,3 +33,6 @@ Se quiser tentar a sorte novamente, basta recarregar a página e os dados serão
 ---
 
 **Divirta-se e que a sorte esteja sempre ao seu lado!** 🎲✨
+
+![image](https://github.com/user-attachments/assets/6d935fc7-a183-4675-9a2f-e9d628ca0ff1)
+
