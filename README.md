@@ -1,5 +1,7 @@
 # 🎲 **Jogo de Dados: O Duelo Épico!** 🎲
 
+https://pedroantonioheinrich.github.io/jogo-de-dados/
+
 Bem-vindo ao **Jogo de Dados**, onde a sorte é lançada e o destino é decidido por um simples rolar de dados! Neste emocionante duelo, você, o **Jogador 1**, enfrentará o temível **Computador 2** em uma batalha de pura sorte e estratégia (ou falta dela). 
 
 ## Como funciona?
